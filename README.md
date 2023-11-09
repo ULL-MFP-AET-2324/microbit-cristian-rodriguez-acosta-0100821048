@@ -1,6 +1,10 @@
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
+## Mi entega
+[enlace al classroom tarea mircobit] (https://classroom.github.com/classrooms/149104092-ull-mfp-aet-2324-alu0100821048/assignments/microbit-cristian)
+[enlace classroom:https](//classroom.github.com/classrooms/149104092-ull-mfp-aet-2324-alu0100821048)
+[enlace organizacion](https://github.com/ull-mfp-aet-2324-alu0100821048)
 ## Edit this project
 
 To edit this repository in MakeCode.
