@@ -2,7 +2,7 @@
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
 ## Mi entrega
-[enlace al classroom tarea mircobit](https://classroom.github.com/classrooms/149104092-ull-mfp-aet-2324-alu0100821048/assignments/microbit-cristian)
+[enlace al classroom tarea mircobit](https://classroom.github.com/classrooms/149104092-ull-mfp-aet-2324-alu0100821048/assignments/tecnolog-a3-microbit-cristian)
 
 [enlace classroom](//classroom.github.com/classrooms/149104092-ull-mfp-aet-2324-alu0100821048)
 
